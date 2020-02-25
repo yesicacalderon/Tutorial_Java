@@ -6,6 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		Persona persona1= new Persona ("yesica","calderon",18);
+		Persona persona2=new Persona ("nicolas", "coronel", 45);
+		
+		
 		
 		System.out.println(persona1.getApellido());
 		
